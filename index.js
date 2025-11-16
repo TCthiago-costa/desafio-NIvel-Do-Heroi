@@ -2,8 +2,6 @@ let heroName = "Caco Master";
 let heroXp = 20000;
 let heroLevel = "";
 
-console.log("TESTE: arquivo correto carregado!");
-
 
 if (heroXp <= 1000) {
     heroLevel = "Ferro"
